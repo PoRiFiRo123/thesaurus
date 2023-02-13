@@ -17,5 +17,7 @@ To get started, simply [sign up](https://thesaurus-nu.vercel.app/auth) for a fre
 
 You can reach me for any queries through me by my [email](nishitkirani2020@gmail.com).
 
-<img align="center" alt="Coding" width="400" src="https://imgur.com/a/7D1whvk">
+<img align="center" alt="Preview" width="400" src="https://imgur.com/a/7D1whvk">
+
+
 
